@@ -1,0 +1,16 @@
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\bin\Debug\net5.0\OperationsExercise1.exe
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\bin\Debug\net5.0\OperationsExercise1.deps.json
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\bin\Debug\net5.0\OperationsExercise1.runtimeconfig.json
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\bin\Debug\net5.0\OperationsExercise1.runtimeconfig.dev.json
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\bin\Debug\net5.0\OperationsExercise1.dll
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\bin\Debug\net5.0\ref\OperationsExercise1.dll
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\bin\Debug\net5.0\OperationsExercise1.pdb
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\OperationsExercise1.csproj.AssemblyReference.cache
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\OperationsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\OperationsExercise1.AssemblyInfoInputs.cache
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\OperationsExercise1.AssemblyInfo.cs
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\OperationsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\OperationsExercise1.dll
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\ref\OperationsExercise1.dll
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\OperationsExercise1.pdb
+C:\Users\forre\source\repos\OperationsExercise1\OperationsExercise1\obj\Debug\net5.0\OperationsExercise1.genruntimeconfig.cache
